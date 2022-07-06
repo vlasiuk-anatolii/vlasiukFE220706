@@ -1,0 +1,30 @@
+.wrap {
+  display: flex;
+  margin: 0;
+ 
+  &__name {
+    display: flex;
+    width: 120px;
+    justify-content: flex-end;
+  }
+
+  &__nameitem {
+    margin-right: 10px;
+  }
+
+  &__strips {
+    background-color: rgb(12, 208, 146);
+    width: 230px;
+    height: 50px;
+  }
+
+  &__time {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+
+
+
+
