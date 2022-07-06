@@ -1,5 +1,5 @@
 ## General info
-This project is Chart which have a button, when you click on it data changed.
+This project is Chart which have a button, when you click on it data change.
 Also data change every 30 second automaticaly.
 	
 ## Technologies
